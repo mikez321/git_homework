@@ -6,15 +6,15 @@ This is just me practicing uploading git from the terminal into GitHub.
 
 1. Initialize a directory with GIT
 
-This is done by the command git Initialize
+..This is done by the command git Initialize
 
 2.  Create, Modify, and Add files to staging to be commmitted
 
-Create files with touch
+..Create files with touch
 
-Modify in whatever text editor.  I've been using Atom with the command atom . <file>
+..Modify in whatever text editor.  I've been using Atom with the command atom . <file>
 
-Add with git add <file>
+..Add with git add <file>
 
 3.  Commit files
 
